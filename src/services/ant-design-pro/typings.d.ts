@@ -99,3 +99,5 @@ declare namespace API {
     type?: NoticeIconItemType;
   };
 }
+
+declare const API_URL: string;
